@@ -1,6 +1,6 @@
 # Introducción a la Librería Pandas en Python
 
-Este trabajo consiste en una investigación sobre la librería **Pandas** de Python, una de las herramientas más utilizadas en el mundo del análisis de datos y la inteligencia artificial.
+Este trabajo consiste en una investigación sobre la librería **Pandas** de Python, una de las herramientas más utilizadas en el mundo del análisis de datos y la inteligencia artificial
 
 El trabajo se divide en dos partes:
 
